@@ -10,3 +10,5 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
 * Week 2
     * Lecture 2 (23 August, Monday)
         - Introduction (contd.)
+    * Lecture 3 (26 August, Thursday)
+        - Introduction (contd.)
