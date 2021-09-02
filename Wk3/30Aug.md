@@ -5,7 +5,7 @@ subtitle: |
           | 30 August, Monday (Lecture 4)
 author: Taught by Prof. Dipti Misra Sharma
 header-includes:
-- \newfontfamily\devanagarifonts{Lohit Devanagari}
+- \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
 ---
 
 # Variation in Language
@@ -21,5 +21,3 @@ Variables can have different *social values* (separate from their linguistic val
 * *indicators* have a demographic associated with them and are not subject to stylistic or situational change.
 * *markers* are the change of a variant depending on casual or careful speech.
 * *stereotypes* do not reflect social factors, but views about the norms of speech.
-
-## Language, Dialect and Register

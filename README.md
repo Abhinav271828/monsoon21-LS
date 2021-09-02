@@ -16,3 +16,5 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
     * Lecture 4 (30 August, Monday)
         - Variation in Language
             - Variables as Indicators, Markers or Stereotypes
+    * 02 September, Thursday
+        - Language & Dialect (discussion)
