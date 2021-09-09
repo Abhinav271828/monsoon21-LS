@@ -18,3 +18,6 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
             - Variables as Indicators, Markers or Stereotypes
     * 02 September, Thursday
         - Language & Dialect (discussion)
+* Week 4
+    * Lecture 5 (09 September, Thursday)
+        - Standard Language
