@@ -22,5 +22,7 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
     * Lecture 5 (09 September, Thursday)
         - Standard Language
 * Week 5
-    * Lecture 6 (11 September, Monday)
+    * Lecture 6 (13 September, Monday)
         - Dialectology and Register
+    * Lecture 7 (16 September, Thursday)
+        - Social Groups, Networks and Codes
