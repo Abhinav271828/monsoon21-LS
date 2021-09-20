@@ -26,3 +26,6 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
         - Dialectology and Register
     * Lecture 7 (16 September, Thursday)
         - Social Groups, Networks and Codes
+* Week 6
+    * Lecture 8 (20 September, Monday)
+        - Bilingualism and Multilingualism
