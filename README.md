@@ -29,3 +29,5 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
 * Week 6
     * Lecture 8 (20 September, Monday)
         - Bilingualism and Multilingualism
+    * Lecture 9 (23 September, Wednesday)
+        - Diglossia, Code Switching and Code Mixing
