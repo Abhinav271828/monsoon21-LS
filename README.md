@@ -31,3 +31,10 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
         - Bilingualism and Multilingualism
     * Lecture 9 (23 September, Wednesday)
         - Diglossia, Code Switching and Code Mixing
+* Week 7
+    * Lecture 10 (27 September, Monday)
+        - Language Contact and Convergence
+            - Lingua Franca
+            - Borrowing
+            - Convergence
+            - Pidgins and Creoles
