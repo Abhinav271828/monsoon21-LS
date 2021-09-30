@@ -38,3 +38,5 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
             - Borrowing
             - Convergence
             - Pidgins and Creoles
+    * Lecture 11 (30 September, Thursday)
+        - Kupwar Village Study
