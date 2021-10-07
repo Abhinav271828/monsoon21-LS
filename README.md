@@ -40,3 +40,7 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
             - Pidgins and Creoles
     * Lecture 11 (30 September, Thursday)
         - Kupwar Village Study
+* Week 8
+    * Lecture 12 (07 October, Thursday)
+        - Quantitative Sociolinguistics Method
+            - Method
