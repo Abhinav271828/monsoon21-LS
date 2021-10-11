@@ -44,3 +44,7 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
     * Lecture 12 (07 October, Thursday)
         - Quantitative Sociolinguistics Method
             - Method
+* Week 9
+    * Lecture 13 (11 Octover, Monday)
+        - Quantitative Sociolinguistics Method (contd.)
+            - Hypercorrection
