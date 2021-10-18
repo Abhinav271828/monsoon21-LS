@@ -42,13 +42,17 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
         - Kupwar Village Study
 * Week 8
     * Lecture 12 (07 October, Thursday)
-        - Quantitative Sociolinguistics Method
+        - Quantitative Sociolinguistics Methods
             - Method
 * Week 9
     * Lecture 13 (11 October, Monday)
-        - Quantitative Sociolinguistics Method (contd.)
+        - Quantitative Sociolinguistics Methods (contd.)
             - Hypercorrection
     * Lecture 14 (14 October, Thursday)
-        - Quantitative Sociolinguistics Method (contd.)
+        - Quantitative Sociolinguistics Methods (contd.)
             - Belfast Study
             - Martha's Vineyard Study
+* Week 10
+    * Lecture 15 (18 October, Monday)
+        - Language and Thought
+            - The Sapir-Whorf Hypothesis
