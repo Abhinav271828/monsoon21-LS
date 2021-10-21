@@ -56,3 +56,5 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
     * Lecture 15 (18 October, Monday)
         - Language and Thought
             - The Sapir-Whorf Hypothesis
+    * Lecture 16 (21 October, Thursday)
+        - Language and Thought (contd.)
