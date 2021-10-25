@@ -58,3 +58,6 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
             - The Sapir-Whorf Hypothesis
     * Lecture 16 (21 October, Thursday)
         - Language and Thought (contd.)
+* Week 11
+    * Lecture 17 (25 October, Monday)
+        - Speech as a Social Skill
