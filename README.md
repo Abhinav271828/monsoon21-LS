@@ -61,3 +61,6 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
 * Week 11
     * Lecture 17 (25 October, Monday)
         - Speech as a Social Skill
+* Week 12
+    * Lecture 18 (01 November, Monday)
+        - Conversational Norms
