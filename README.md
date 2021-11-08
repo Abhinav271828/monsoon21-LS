@@ -64,3 +64,6 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
 * Week 12
     * Lecture 18 (01 November, Monday)
         - Conversational Norms
+* Week 13
+    * Lecture 19 (08 November, Monday)
+        - Language in Education
