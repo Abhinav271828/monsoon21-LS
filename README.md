@@ -69,3 +69,7 @@ Notes and resources for the Language and Society course at IIIT Hyderabad.
         - Language in Education
     * Lecture 20 (11 November, Thursday)
         - Language Planning and Policy
+* Week 14
+    * Lecture 21 (15 Movember, Monday)
+        - Language Planning and Policy (contd.)
+        - Language and Gender
